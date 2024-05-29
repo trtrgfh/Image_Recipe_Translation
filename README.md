@@ -12,9 +12,10 @@ The objective of this project is to develop a comprehensive system for translati
 - **Data Visualization:** matplotlib, seaborn, colorcet, PIL
 - **Machine Learning:** pytorch, scikit-learn, gensim, pyLDAvis
   
-# Data
-https://www.allrecipes.com/
-https://www.foodnetwork.com/
-https://www.kaggle.com/datasets/pes12017000148/food-ingredients-and-recipe-dataset-with-images
+# Data 
+Datasets containing food images and their corresponding recipe information were downloaded from the following recipe websites through web scraping techniques.
+- https://www.allrecipes.com/recipes-a-z-6735880 (web_scraping_1.ipynb)
+- https://www.foodnetwork.com/recipes/recipes-a-z/123 (web_scraping_2.ipynb) <br> 
+Additional food images and recipes can be found at https://www.kaggle.com/datasets/pes12017000148/food-ingredients-and-recipe-dataset-with-images
 
 # Results and evaluation
